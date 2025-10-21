@@ -98,8 +98,6 @@ local Tab7 = Window:MakeTab({"Music All", "radio"})
 local Tab8 = Window:MakeTab({"Music", "music"}) 
 local Tab9 = Window:MakeTab({"Troll", "skull"}) 
 local Tab11 = Window:MakeTab({"Teleporte", "Star"})
-local Tab12 = Window:MakeTab({"Fe", "Hammer"})
-
 --------------------------------------------------------------------------------------------------------------------------------
                                                    -- === Tab 1: server=== --
 ---------------------------------------------------------------------------------------------------------------------------------
